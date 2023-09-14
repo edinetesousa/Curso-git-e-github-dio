@@ -1,7 +1,7 @@
 
 # Resumo de Git e GitHub
 
-Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/)
+Repositório para armazenar um breve resumo sobre Git e GitHub do curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/)
 
 ## 📚 Documentação
 - [Documentação Git](https://git-scm.com/docs/git/pt_BR)
@@ -40,7 +40,6 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 |git merge "nome da branch"| Mescla os commits de uma branch com a branch especificada
 |git branch -d "nome da branch"| Realiza a exclusão da branch especificada
 |git stach| Arquiva a ultima modificação feita no arquivo
-|
 
  ### 📌 Mais detalhes na pasta 🔗["Materiais de apoio"](https://github.com/elidianaandrade/dio-curso-git-github), disponibilizada pela instrutora do curso.
 
