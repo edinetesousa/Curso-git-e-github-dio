@@ -27,7 +27,7 @@ Repositório para armazenar um breve resumo sobre Git e GitHub do curso Versiona
 |git remote| Lista os repositórios remotos configurados para o seu projeto local|
 |git remote add "nome" "URL"| Adiciona um novo repositório remoto com um nome especificado
 |git remote remove "nome"| Remove um repositório remoto do seu projeto local
-|git restore "nome do arquivo"| Restaura o ultimo estado do arquivo e descaarta as alterações feitas localmente
+|git restore "nome do arquivo"| Restaura o ultimo estado do arquivo e descarta as alterações feitas localmente
 |git commit --amend -m "mensagem"|Possibilita editar a mensagem do seu último commit
 |git reset --soft "código do commit"| Apaga tudo que foi enviado no commit
 |git reset --mixed "código do commit" | Volta os arquivos que foram enviados no commit anterior para a área de preparação
