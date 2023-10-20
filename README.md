@@ -29,6 +29,8 @@ Repositório para armazenar um breve resumo sobre Git e GitHub do curso Versiona
 |git remote remove "nome"| Remove um repositório remoto do seu projeto local
 |git restore "nome do arquivo"| Restaura o ultimo estado do arquivo e descarta as alterações feitas localmente
 |git commit --amend -m "mensagem"|Possibilita editar a mensagem do seu último commit
+|git reset | Remove do stage todas as alterações
+|git reset "nome do arquivo"  Remove do stage um git add antes de um commit
 |git reset --soft "código do commit"| Apaga tudo que foi enviado no commit
 |git reset --mixed "código do commit" | Volta os arquivos que foram enviados no commit anterior para a área de preparação
 |git reset --hard "código do commit| Ignora os arquivos do commit e apaga os arquivos do ultimo commit
